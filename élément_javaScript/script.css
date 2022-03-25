@@ -1,0 +1,78 @@
+#contaigner_B{
+    display: flex;
+    height: auto;
+    width: 100%;
+}
+#swap{
+width: 230px;
+height: 100%;
+margin: 0 auto;
+align-items: center;
+display: flex;
+justify-content: space-around;
+justify-content: flex-start
+}
+
+#left-right{
+display: flex;
+height: 100%;
+width: 25%;
+display: flex;
+}
+#cross{
+    width: 40px;
+}
+#cross_2{
+    width: 40px;
+    margin: 0 40px;
+}
+#état{
+    justify-content: flex-end;
+    width: 900px;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#starte_point{
+    max-width: 36px;
+    max-height: 36px;
+    min-width: 36px;
+    min-height: 36px;
+    border-radius: 50px;
+    background-color: #827B68;
+    align-items: center;
+    display: flex;
+}
+#state_point{
+    max-width: 36px;
+    max-height: 36px;
+    min-width: 36px;
+    min-height: 36px;
+    border-radius: 50px;
+    margin-left: 170px;
+    background-color: #827B68;
+    align-items: center;
+    display: flex;
+}
+#state_point_2{
+    display: flex;
+    max-width: 32px;
+    max-height: 32px;
+    min-width: 32px;
+    min-height: 32px;
+    border-radius: 50px;
+    background-color: #FFF38A;
+    align-items: center;
+    align-content: center;
+    margin: 0 auto; 
+}
+#state_point_center {
+    margin: 0 auto;
+    max-width: 2px;
+    max-height: 2px;
+    min-width: 2px;
+    min-height: 2px;
+    border-radius: 50px;
+    background-color: #827B68;
+}
